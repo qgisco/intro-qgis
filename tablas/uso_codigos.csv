@@ -1,0 +1,82 @@
+etiqueta;codigo
+Habitacional menor o igual a 3 pisos en NPH;001
+Habitacional mayor o igual a 4 pisos en NPH;002
+Comercio Puntual en NPH;003
+Corredor Comercial en NPH;004
+Estaciones de servicio;005
+Centro Comercial Mediano NPH;006
+Centro Comercial Grande NPH;007
+Bodega comercial NPH;008
+Industria artesanal;009
+Industria Mediana;010
+Industria Grande;011
+Institucional Puntual;012
+Colegios y Universidades de 1 a 3 pisos;013
+Iglesias;014
+Oficinas y Consultorios oficiales en NPH;015
+Colegios y Universidades de 4 pisos o más;016
+Clínicas Hospitales Centro Médicos;017
+Instalaciones Militares;018
+Industria artesanal en PH;019
+Oficinas y Consultorios en NPH;020
+Hoteles en NPH;021
+Depósitos de Almacenamiento en NPH;022
+Teatros y Cinemas en NPH;023
+Edificio de Parqueo en NPH;024
+Bodega de Almacenamiento en NPH;025
+Moteles Amoblado y Residencias en NPH;026
+Moteles Amoblado y Residencias en PH;027
+Industria Mediana en PH;028
+Parques de Diversión en NPH;029
+Clubes de Mayor Extensión;030
+Piscinas en NPH;031
+Coliseos;032
+Bodega Económica;033
+Industria Grande en PH;034
+Colegios y Universidades de 1 a 3 pisos en PH;035
+Parques de Diversión en PH;036
+Habitacional menor o igual a 3 pisos en PH;037
+Habitacional mayor o igual a 4 pisos en PH;038
+Comercio Puntual en PH;039
+Corredor Comercial en PH;040
+Centro Comercial Mediano en PH;041
+Centro Comercial Grande en PH;042
+Clínicas Hospitales Centro Médicos en PH;043
+Institucional Puntual en PH;044
+Oficinas y Consultorios en PH;045
+Hoteles en PH;046
+Teatros y Cinemas en PH;047
+Parqueo libre en PH;048
+Parqueadero Cubierto en PH;049
+Edificio de Parqueo en PH;050
+Deposito Lockers en PH;051
+Piscinas en PH;052
+Iglesias en PH;053
+Cementerios;055
+Restaurantes en NPH;056
+Restaurantes en PH;060
+Pista Aeropuerto;062
+Aulas de Clases;064
+Clubes Pequeños;065
+Plazas de Mercado;066
+Museos;067
+Enramadas Cobertizos Cayenes;070
+Galpones Gallineros;071
+Establos Pesebreras Caballerizas;072
+Cocheras Marraneras Porquerizas;073
+Beneficiadores;074
+Secaderos;075
+Kioscos;076
+Silos;077
+Oficinas en Bodegas y/o Industrias en NPH;080
+Oficinas en Bodegas y/o Industrias en PH;081
+Oficinas operativas (estaciones de servicio);082
+Predios sin construir en PH;090
+Bodega comercial en PH;091
+Oficinas y Consultorios oficiales en PH;092
+Bodega de Almacenamiento en PH;093
+Centro Comercial Pequeño en NPH;094
+Centro Comercial Pequeño en PH;095
+Parqueadero Cubierto en NPH;096
+Bodega Económica en PH;097
+Depósito de Almacenamiento en PH;098
