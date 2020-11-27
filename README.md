@@ -1,6 +1,6 @@
 # Geodatos Bogotá
 
-Material y proyecto base de QGIS v3.10 LTR para los cursos de Introducción de QGIS 
+Material y proyecto base de QGIS v3.16 para los cursos de Introducción de QGIS 
 
 ## Presentación
 
